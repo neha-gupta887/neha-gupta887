@@ -51,4 +51,9 @@ Computer Science Engineering Student | AI Enthusiast | Open Source Contributor
 <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,react,nodejs,mongodb,git,github,vscode,linux"/>
 
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/neha-gupta887/neha-gupta887/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
