@@ -42,15 +42,6 @@ Computer Science Engineering Student | AI Enthusiast | Open Source Contributor
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=neha-gupta887&show_icons=true&theme=github_dark&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha-gupta887&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🔥 TRINETRA | AI-powered disaster response system using Edge AI |
-| 🧠 Mental Health Awareness Campaign | Awareness website built with HTML, CSS & JS |
-| 🔍 Lost & Found Portal | Campus lost and found web application |
-| 💻 LeetCode Solutions | My DSA journey and problem solutions |
-</p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=neha-gupta887&theme=tokyonight&hide_border=true"/>
 </p>
@@ -60,3 +51,4 @@ Computer Science Engineering Student | AI Enthusiast | Open Source Contributor
 <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,react,nodejs,mongodb,git,github,vscode,linux"/>
 
 </p>
+
