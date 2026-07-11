@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neha Gupta</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neha-gupta887&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <h3 align="center">
 Computer Science Engineering Student | AI Enthusiast | Open Source Contributor
@@ -28,12 +31,25 @@ Computer Science Engineering Student | AI Enthusiast | Open Source Contributor
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/neha-gupta887)
 ## 💻 Tech Stack
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=neha-gupta887&theme=algolia&no-frame=true&margin-w=10&row=1"/>
+</p>
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=neha-gupta887&show_icons=true&theme=github_dark&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha-gupta887&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🔥 TRINETRA | AI-powered disaster response system using Edge AI |
+| 🧠 Mental Health Awareness Campaign | Awareness website built with HTML, CSS & JS |
+| 🔍 Lost & Found Portal | Campus lost and found web application |
+| 💻 LeetCode Solutions | My DSA journey and problem solutions |
 </p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=neha-gupta887&theme=tokyonight&hide_border=true"/>
