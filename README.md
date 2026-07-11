@@ -3,6 +3,9 @@
 <h3 align="center">
 Computer Science Engineering Student | AI Enthusiast | Open Source Contributor
 </h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+Enthusiast;Open+Source+Contributor;LeetCode+Solver;Building+Projects+That+Matter" />
+</p>
 
 <p align="center">
 🚀 Passionate about building impactful AI projects and continuously improving through coding and open source.
@@ -25,6 +28,18 @@ Computer Science Engineering Student | AI Enthusiast | Open Source Contributor
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/neha-gupta887)
 ## 💻 Tech Stack
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=neha-gupta887&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha-gupta887&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=neha-gupta887&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
 
